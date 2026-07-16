@@ -1,2 +1,5 @@
 pandas
 python-calamine
+fastapi
+uvicorn
+python-multipart
